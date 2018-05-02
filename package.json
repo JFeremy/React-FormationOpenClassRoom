@@ -1,7 +1,7 @@
 {
-  "name": "react-formationopc",
+  "name": "react-formation-oc",
   "version": "1.0.0",
-  "description": "",
+  "description": "Formation React avec OpenClassroom",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
